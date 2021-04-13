@@ -1,16 +1,15 @@
 #contact {
   display: flex;
-  padding: 10px 10%;
   justify-content: space-between;
   align-items: center;
+  padding: 1% 10%;
 }
 
-.contact-wrapper {
+.contact-details {
   display: flex;
-  align-items: center;
 }
 
-.contact-wrapper > div {
+.contact-details > div {
   display: flex;
   align-items: center;
 }
